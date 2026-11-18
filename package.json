@@ -1,0 +1,1 @@
+{"description":"Dip-buy mean-reversion bot for the make.fun btc-race-24h-20261118-1444 competition (bars-replay/v1). No dependencies: the entrypoint runs on Node's type stripping with the vendored SDK shim only.","name":"flush-dip-cbbtc","private":true,"type":"module","version":"1.0.0"}
